@@ -1,0 +1,49 @@
+<div class="news-item" id="new8">
+    <h1 style="font-size: 2rem; font-weight: 800; text-align:center; margin-bottom:1rem;">
+        NCT DREAM ทำยอดขายอัลบั้มทะลุ 2 ล้านชุด
+    </h1>
+    <h2 style="font-size: 1.5rem; font-weight: bold; text-align:center; margin-bottom:1rem;">
+        NCT DREAM ขึ้นแท่น Triple Million Seller
+    </h2>
+
+    <p>
+        วันนี้ จากรายงานของ SM Entertainment ระบุว่า 'Hot Sauce' อัลบั้มเต็มชุดแรกของ NCT DREAM
+        ได้ปล่อยออกมาจำนวน 2,030,000 ก๊อปปี้ และอัลบั้มรีแพ็กเกจชุดแรก 'Hello Future'
+        ที่ปล่อยออกในวันที่ 28 มิถุนายนที่ผ่านมา ทำยอดขายได้ 1.19 ล้านชุด
+        โดยยอดขายรวมของอัลบั้มเต็มชุดแรกนี้บันทึกได้ประมาณ 3.23 ล้านชุด (ณ วันที่ 7 กรกฎาคม)
+        ทำให้ขึ้นแท่นเป็น 'Triple Million Seller'
+    </p>
+
+    <div style="text-align:center; margin:1.5rem 0;">
+        <img src="https://cms.dmpcdn.com/musicarticle/2021/06/30/60f840c0-d952-11eb-9682-1ffa1c95bef4_original.jpg" 
+             alt="NCT DREAM Hot Sauce" 
+             style="width:65%; height:auto; display:block; margin:auto; border-radius:12px; box-shadow:0 4px 8px rgba(0,0,0,0.2);">
+    </div>
+
+    <h2 style="font-size: 1.5rem; font-weight: bold; margin-bottom:1rem;">NCT DREAM Hot Sauce</h2>
+    <p>
+        ก่อนหน้านี้ อัลบั้มเต็มชุดแรก ‘Hot Sauce’ ของ NCT DREAM มียอดขายทะลุ 2 ล้านอัลบั้ม
+        ในเวลาเพียง 16 วันหลังจากปล่อยอัลบั้มออกมา และได้ขึ้นแท่นเป็น ‘Double Million Seller’
+        ต่อจากนั้นอัลบั้มรีแพ็กเกจ 'Hello Future' ก็ทำยอดขายได้กว่า 1.19 ล้านชุด
+    </p>
+
+    <p>
+        นอกจากนี้ อัลบั้มรีแพ็กเกจ 'Hello Future' ของ NCT DREAM ยังติดอันดับ 1
+        บนชาร์ตอัลบั้มของ Gaon (27 มิถุนายน - 3 กรกฎาคม) ที่ประกาศในวันนี้
+        นอกจากนี้เพลงไตเติ้ล 'Hello Future' ยังติดอันดับสูงสุดบน Download Chart
+        โดยขึ้นอันดับ 1 ได้ทั้งชาร์ตอัลบั้มและชาร์ตเพลง
+    </p>
+
+    <p>
+        อีกทั้ง 'Hello Future' อัลบั้มรีแพ็กเกจยังกวาดอันดับสูงสุดในชาร์ตอัลบั้มประจำสัปดาห์ต่าง ๆ
+        เช่น Hanteo Chart, Synnara Record, Hot Tracks, Yes24 และ Kyobo Bookstore
+        ตอกย้ำความเป็นที่นิยมอย่างร้อนแรงของ NCT DREAM
+    </p>
+
+    <h2 style="font-size: 1.5rem; font-weight: bold; margin-bottom:1rem;">NCT DREAM Hello Future</h2>
+    <div style="text-align:center; margin:1.5rem 0;">
+        <img src="https://cms.dmpcdn.com/musicarticle/2021/05/15/d758ed90-b52c-11eb-a753-ed580dade28e_original.jpg" 
+             alt="NCT DREAM Hello Future" 
+             style="width:65%; height:auto; display:block; margin:auto; border-radius:12px; box-shadow:0 4px 8px rgba(0,0,0,0.2);">
+    </div>
+</div>

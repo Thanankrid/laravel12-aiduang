@@ -1,0 +1,66 @@
+<div class="news-item" id="new10">
+    <h1 style="font-size: 2rem; font-weight: 800; text-align:center; margin-bottom:1rem;">
+        เปิดประวัติ "แพรว แพรววณิชยฐ์" สาวที่มุ่งมั่นตามฝันจนคว้ารองอันดับ 1 MUT 2025
+    </h1>
+
+    <p>
+        เป็นอีกหนึ่งตัวเต็งในเวทีประกวด Miss Universe Thailand 2025 สำหรับ แพรว แพรววณิชยฐ์ เรืองทอง
+        สาวงามผู้ไม่เคยหยุดฝัน บนเส้นทางสายนางงามที่ไม่ง่าย ซึ่งในปีนี้แพรวก็พกความมั่นใจมาชิงมงกุฎ
+        Miss Universe Thailand 2025 อีกครั้งด้วยแรงเชียร์ แรงซัพพอร์ตจากแฟนนางงามทั่วประเทศ
+    </p>
+
+    <p>
+        และในวันนี้ แพรว แพรววณิชยฐ์ ก็ทำอย่างเต็มที่และชนะใจแฟนนางงาม ด้วยการคว้าตำแหน่งรองอันดับ 1
+        Miss Universe Thailand 2025 มาครอง วันนี้บันเทิงไทยรัฐออนไลน์จะพาไปย้อนประวัติของ แพรว
+        แพรววณิชยฐ์ นางงามใจสู้ที่ไม่เคยหยุดฝันคนนี้กัน
+    </p>
+
+    <ul>
+        <li>แพรว แพรววณิชยฐ์ สาวใต้จากจังหวัดชุมพร เกิดวันที่ 27 ธันวาคม 2535 สูง 172 ซม. จบการศึกษาจากคณะศิลปศาสตร์และวิทยาการจัดการ สาขาภาษาการสื่อสารและธุรกิจ มหาวิทยาลัยสงขลานครินทร์</li>
+        <li>ก่อนหน้านี้แพรวเคยทำงานในตำแหน่งลูกค้าสัมพันธ์ในบริษัทด้านอีเวนต์ของ เป็ก สัณณ์ชัย</li>
+        <li>ทั้งยังเคยเป็นพนักงานทรูช็อป สาขาเอ็มควอเทียร์ แม้จะไม่ได้มีโปรไฟล์ที่เริดหรู แต่ด้วยความสวยที่มีเอกลักษณ์เฉพาะตัว ทำให้แพรวได้รับการสนับสนุนให้เข้ามาประกวดนางงาม และถือเป็นหนึ่งในตัวเต็งที่น่าจับตามองในแทบทุกเวที</li>
+        <li>จุดเริ่มต้นของการเดินสายประกวดของ แพรว แพรววณิชยฐ์ เริ่มเมื่อปี 2017 ได้เข้าประกวดมิสยูนิเวิร์สไทยแลนด์เป็นครั้งแรก แต่ไม่สามารถเข้ารอบ 40 คนสุดท้าย</li>
+        <li>แต่ความฝันของแพรวก็ยังไม่สิ้นสุด รวมถึงแฟนนางงามเรียกร้องให้แพรวกลับมาประกวดอีกครั้งและถือว่าเป็นอีกหนึ่งคนประสบความสำเร็จในเส้นทางของการประกวดนางงาม</li>
+        <li>แพรวประกวดนางสาวถิ่นไทยงาม 2561 คว้าตำแหน่ง รองชนะเลิศอันดับ 1</li>
+        <li>ต่อมา แพรวประกวดมิสไทยแลนด์เวิลด์ 2018 คว้าตำแหน่ง รองชนะเลิศอันดับ 1</li>
+    </ul>
+
+    <div style="text-align:center; margin:1.5rem 0;">
+        <img src="https://static.thairath.co.th/media/T18CT60ObSbLrsQ7rBN63rZRsQvkJCLVwisZTjtRw7XgWI8GIl6fFKo.webp" 
+             alt="แพรว แพรววณิชยฐ์ 1" 
+             style="width:65%; height:auto; display:block; margin:auto; border-radius:12px; box-shadow:0 4px 8px rgba(0,0,0,0.2);">
+    </div>
+
+    <div style="text-align:center; margin:1.5rem 0;">
+        <img src="https://static.thairath.co.th/media/EyWwB5WU57MYnKOvYc2OuaezRBJkWg81MoKAKynr8S9aE75rt9BCkN.webp" 
+             alt="แพรว แพรววณิชยฐ์ 2" 
+             style="width:65%; height:auto; display:block; margin:auto; border-radius:12px; box-shadow:0 4px 8px rgba(0,0,0,0.2);">
+    </div>
+
+    <ul>
+        <li>จากนั้น แพรวเข้าร่วมประกวด มิสยูนิเวิร์สไทยแลนด์ 2020 และได้รับตำแหน่ง รองชนะเลิศอันดับ 3</li>
+        <li>แพรวได้ตัดสินใจทำตามความฝันในการเป็นนางงามอีกครั้ง ด้วยการสมัครเข้าร่วมประกวด มิสซูปราเนชันแนลไทยแลนด์ 2022 และสามารถคว้ามงกุฎชนะเลิศมาได้ เป็นตัวแทนประเทศไทยในการประกวด มิสซูปราเนชันแนล 2022 ที่ประเทศโปแลนด์</li>
+        <li>แพรวได้เป็นตัวแทนประเทศไทยเข้าร่วมประกวด มิสซูปราเนชันแนล 2022 ในเดือนกรกฎาคม ณ ประเทศโปแลนด์ โดยแพรวได้ตำแหน่งรองอันดับที่ 1</li>
+        <li>ในปี 2025 แพรวประกาศลงประกวด Miss Universe Thailand 2025 อีกครั้ง และคว้าตำแหน่งมิสยูนิเวิร์สกรุงเทพมหานคร 2025 กลายเป็นตัวเต็ง</li>
+        <li>ในรอบไฟนอล Miss Universe Thailand 2025 แพรว แพรววณิชยฐ์ ก็ทำอย่างเต็มที่ คว้าตำแหน่งรองอันดับ 1 Miss Universe Thailand 2025 มาครอง</li>
+        <li>แพรวเป็นอีกหนึ่งสาวงามที่มีความพยายาม และความตั้งใจทำตามความฝันของตัวเอง แม้จะไม่ได้มงกุฎ แต่ชนะใจแฟนๆ นางงามทั่วประเทศ</li>
+    </ul>
+
+    <div style="text-align:center; margin:1.5rem 0;">
+        <img src="https://static.thairath.co.th/media/Dtbezn3nNUxytg04avgw8jtfkC8pAVP8RlwjX1970EHzA8.webp" 
+             alt="แพรว แพรววณิชยฐ์ 3" 
+             style="width:65%; height:auto; display:block; margin:auto; border-radius:12px; box-shadow:0 4px 8px rgba(0,0,0,0.2);">
+    </div>
+
+    <div style="text-align:center; margin:1.5rem 0;">
+        <img src="https://static.thairath.co.th/media/Dtbezn3nNUxytg04avgw8jtfkC8pAVP7nhG8b3Ux8GEf9F.webp" 
+             alt="แพรว แพรววณิชยฐ์ 4" 
+             style="width:65%; height:auto; display:block; margin:auto; border-radius:12px; box-shadow:0 4px 8px rgba(0,0,0,0.2);">
+    </div>
+
+    <div style="text-align:center; margin:1.5rem 0;">
+        <img src="https://static.thairath.co.th/media/Dtbezn3nNUxytg04avgw8jtfkC8pAVP65gXUbZrn2y2aMx.webp" 
+             alt="แพรว แพรววณิชยฐ์ 5" 
+             style="width:65%; height:auto; display:block; margin:auto; border-radius:12px; box-shadow:0 4px 8px rgba(0,0,0,0.2);">
+    </div>
+</div>

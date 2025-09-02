@@ -1,0 +1,43 @@
+<div class="news-item" id="new7">
+  <h2 style="font-size: 1.5rem; font-weight: bold; text-align:center; margin-bottom:1rem;">
+      JENNIE มาที่งาน Met Gala 2025 ในลุคกูตูร์ของ CHANEL
+  </h2>
+
+  <p>
+      JENNIE กลับมายังงาน Met Gala อีกครั้งเป็นปีที่ 3 ติดต่อกัน ณ 
+      พิพิธภัณฑ์ Metropolitan Museum of Art ในนครนิวยอร์ก 
+      สำหรับการเปิดนิทรรศการ <b>Superfine: Tailoring Black Style</b> 
+      เธอได้ใส่ชุดสั่งตัดพิเศษของ CHANEL อีกครั้งในฐานะแบรนด์แอมบาสเดอร์ 
+      ซึ่งตอบโจทย์ Dress Code ปีนี้ได้อย่างลงตัวและตอกย้ำชื่อเล่นของเธอว่าเป็น <i>“Human Chanel”</i>
+  </p>
+
+  <div style="text-align:center; margin:1.5rem 0;">
+      <img src="https://thestandard.co/wp-content/uploads/2025/05/JENNIE-Met-Gala-2025.jpg?x29677" 
+           alt="Jennie Met Gala 2025" 
+           style="width:65%; height:auto; display:block; margin:auto; border-radius:12px; box-shadow:0 4px 8px rgba(0,0,0,0.2);">
+  </div>
+
+  <p>
+      ทาง JENNIE เล่าในไลฟ์สตรีมของ VOGUE อเมริกาบนพรมน้ำเงินว่าชุดเดรส CHANEL ในครั้งนี้มาในรูป Tailoring 
+      มีจั๊มสูทสีดำด้านในและกระโปรงครอบ พร้อมประดับสร้อยมุกและดอกคามิเลียอันเป็นสัญลักษณ์ของแบรนด์ 
+      เธอได้แรงบันดาลใจจาก Gabrielle Chanel ผู้ก่อตั้งแบรนด์ในยุค 20-30 และใส่หมวกทรง Brim Hat 
+      ซึ่ง Gabrielle เริ่มแบรนด์ของเธอด้วยธุรกิจทำหมวกในชื่อ Chanel Modes
+  </p>
+
+  <p>
+      ทางพิธีกรไลฟ์สตรีม Lala Anthony ถาม JENNIE ว่ารู้สึกยังไงกับการที่ BLACKPINK จะกลับมารวมตัวออกทัวร์ 
+      เธอก็บอกว่าตื่นเต้นมาก แม้ยังแชร์รายละเอียดอะไรไม่ได้
+  </p>
+
+  <div style="text-align:center; margin:1.5rem 0;">
+      <img src="https://i.redd.it/jennie-blackpink-at-the-2025-met-gala-v0-zyvw4l0ow1ze1.jpg?width=731&format=pjpg&auto=webp&s=daeeebc4a5a90cc14dcf4815c6687bf0afeba815" 
+           alt="Jennie Chanel Outfit" 
+           style="width:65%; height:auto; display:block; margin:auto; border-radius:12px; box-shadow:0 4px 8px rgba(0,0,0,0.2);">
+  </div>
+
+  <div style="text-align:center; margin:1.5rem 0;">
+      <img src="https://preview.redd.it/jennie-blackpink-at-the-2025-met-gala-v0-rdcrjh0ow1ze1.jpg?width=640&crop=smart&auto=webp&s=20d89fccf62f9e2566a256a6c8d94062216e3021" 
+           alt="Jennie Met Gala Chanel" 
+           style="width:65%; height:auto; display:block; margin:auto; border-radius:12px; box-shadow:0 4px 8px rgba(0,0,0,0.2);">
+  </div>
+</div>

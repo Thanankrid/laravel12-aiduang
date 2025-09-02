@@ -1,0 +1,53 @@
+<div class="news-item" id="new9">
+    <h1 style="font-size: 2rem; font-weight: 800; text-align:center; margin-bottom:1rem;">
+        ซูมแฟชั่นล้ำๆ “ใหม่ ดาวิกา” ดีไซน์เก๋ ไม่ธรรมดาสักชุด
+    </h1>
+
+    <p>
+        เป็นคนที่สนุกสนานกับงานที่ได้รับ สำหรับ “ใหม่ ดาวิกา โฮร์เน่” ซึ่งถ้าใครที่ติดตามอินสตาแกรมของเจ้าตัว
+        มักจะเห็นว่าใหม่สวมใส่ชุดต่างๆ หลากหลายแบรนด์ร่วมงานระดับอินเตอร์
+        บางแบบไม่ใช่แบบที่เป็นที่นิยม มีดีไซน์เก๋ๆ ล้ำๆ บอกเลยว่าถ้าไม่ใช่ใหม่ ดาวิกา อาจเอาไม่อยู่
+    </p>
+
+    <div style="text-align:center; margin:1.5rem 0;">
+        <img src="https://mpics.mgronline.com/pics/Images/568000001049801.JPEG" 
+             alt="ใหม่ ดาวิกา 1" 
+             style="width:65%; height:auto; display:block; margin:auto; border-radius:12px; box-shadow:0 4px 8px rgba(0,0,0,0.2);">
+    </div>
+
+    <div style="text-align:center; margin:1.5rem 0;">
+        <img src="https://mpics.mgronline.com/pics/Images/568000001049802.JPEG" 
+             alt="ใหม่ ดาวิกา 2" 
+             style="width:65%; height:auto; display:block; margin:auto; border-radius:12px; box-shadow:0 4px 8px rgba(0,0,0,0.2);">
+    </div>
+
+    <div style="text-align:center; margin:1.5rem 0;">
+        <img src="https://mpics.mgronline.com/pics/Images/568000001049803.JPEG" 
+             alt="ใหม่ ดาวิกา 3" 
+             style="width:65%; height:auto; display:block; margin:auto; border-radius:12px; box-shadow:0 4px 8px rgba(0,0,0,0.2);">
+    </div>
+
+    <div style="text-align:center; margin:1.5rem 0;">
+        <img src="https://mpics.mgronline.com/pics/Images/568000001049804.JPEG" 
+             alt="ใหม่ ดาวิกา 4" 
+             style="width:65%; height:auto; display:block; margin:auto; border-radius:12px; box-shadow:0 4px 8px rgba(0,0,0,0.2);">
+    </div>
+
+    <div style="text-align:center; margin:1.5rem 0;">
+        <img src="https://mpics.mgronline.com/pics/Images/568000001049805.JPEG" 
+             alt="ใหม่ ดาวิกา 5" 
+             style="width:65%; height:auto; display:block; margin:auto; border-radius:12px; box-shadow:0 4px 8px rgba(0,0,0,0.2);">
+    </div>
+
+    <div style="text-align:center; margin:1.5rem 0;">
+        <img src="https://mpics.mgronline.com/pics/Images/568000001049806.JPEG" 
+             alt="ใหม่ ดาวิกา 6" 
+             style="width:65%; height:auto; display:block; margin:auto; border-radius:12px; box-shadow:0 4px 8px rgba(0,0,0,0.2);">
+    </div>
+
+    <div style="text-align:center; margin:1.5rem 0;">
+        <img src="https://mpics.mgronline.com/pics/Images/568000001049807.JPEG" 
+             alt="ใหม่ ดาวิกา 7" 
+             style="width:65%; height:auto; display:block; margin:auto; border-radius:12px; box-shadow:0 4px 8px rgba(0,0,0,0.2);">
+    </div>
+</div>

@@ -1,0 +1,58 @@
+<div class="news-item" id="new6">
+  <h2 style="font-size: 1.5rem; font-weight: bold; text-align:center; margin-bottom:1rem;">
+      “โอปอล สุชาตา” ทำได้! คว้ามงกุฎ Miss World 2025 ให้ไทยเป็นครั้งแรก
+  </h2>
+
+  <p>
+      <b>โอปอล สุชาตา ช่วงศรี</b> มิสเวิลด์ไทยแลนด์ 2025 ทำได้!! 
+      คว้าตำแหน่ง <b>Miss World 2025</b> มาได้สำเร็จ 
+      ทำแฟนนางงามไทยกรี๊ดน้ำตานองด้วยความตื้นตันใจ
+  </p>
+
+  <p>
+      โดยรอบ 8 คนสุดท้าย โอปอล ได้ตอบคำถามแบบสุดจึ้ง 
+      จากนั้นได้ประกาศควีนทวีปเอเชีย-โอเชียเนีย ซึ่งมี ไทยและฟิลิปปินส์ เป็น 2 คนสุดท้าย 
+      และผลออกมา โอปอลได้เป็นควีนทวีปและเข้ารอบเป็น <b>TOP4 Miss World 2025</b>
+  </p>
+
+  <div style="text-align:center; margin:1.5rem 0;">
+      <img src="https://static.thairath.co.th/media/Dtbezn3nNUxytg04avf6grcgXHHT7PQVAcQm1hsyhk8SlN.jpg" 
+           alt="โอปอล สุชาตา Miss World 2025" 
+           style="width:65%; height:auto; display:block; margin:auto; border-radius:12px; box-shadow:0 4px 8px rgba(0,0,0,0.2);">
+  </div>
+
+  <p>
+      จากนั้นในรอบ 4 คนสุดท้ายที่ประกอบไปด้วย เอธิโอเปีย, โปแลนด์, มาร์ตีนิก และไทยแลนด์ 
+      โอปอลตอบคำถามได้สวยงามและกินใจ
+  </p>
+
+  <p>
+      ก่อนที่จะประกาศผล รอง 3 มาร์ตีนิก, รอง 2 โปแลนด์, รอง 1 เอธิโอเปีย 
+      และ <b>Miss World 2025 คือโอปอล สุชาตา ช่วงศรี จากประเทศไทย</b>
+  </p>
+
+  <div style="text-align:center; margin:1.5rem 0;">
+      <img src="https://image.thepeople.co/uploads/images/md/2025/06/RmT8jQUle5zJ2IfyGuls.webp?x-image-process=style/lg" 
+           alt="Miss World 2025 Opal Suchata Thailand" 
+           style="width:65%; height:auto; display:block; margin:auto; border-radius:12px; box-shadow:0 4px 8px rgba(0,0,0,0.2);">
+  </div>
+
+  <h3 style="font-size: 1.25rem; font-weight: bold; margin-top:2rem; margin-bottom:1rem; text-align:center;">
+      Exclusive Speech @ UOB LIVE by The Mall Group
+  </h3>
+
+  <p>
+      ในช่วงค่ำเวลา 19.30 น. มีการจัดกิจกรรมสุด Exclusive ณ <b>UOB LIVE by The Mall Group</b> 
+      โดยมี <b>โอปอล สุชาตา</b> ขึ้นกล่าวบนเวทีอีกครั้ง ซึ่งเธอได้พูดไว้ว่า...
+  </p>
+
+  <ul style="margin:1rem 2rem; line-height:1.8;">
+      <li>การเป็นมิสเวิลด์ของโอปอล เปรียบเสมือนผู้ดูแลสวน...</li>
+      <li>มันเป็นเมล็ดพันธุ์เล็กๆ ที่เต็มไปด้วยความหวังจากตัวของโอปอล</li>
+      <li>...จนวันนี้ผ่านมาประมาณ 3 ปี โอปอลอยากให้มงกุฎนี้เป็นสัญลักษณ์ (ร้องไห้)...</li>
+      <li>โอปอลอยากบอกว่าตลอดชีวิตที่ผ่านมา มีแต่คนถามว่า “ความสำเร็จคืออะไร” ...</li>
+      <li>...จนถึงวันนี้ ความสำเร็จสูงสุดของโอปอลคือการมอบคุณค่า มอบชีวิต และความฝันให้กับคนที่สูญเสีย</li>
+      <li>และอีกความสำเร็จคือการมอบความสุขให้กับคนไทยทั้งประเทศ...</li>
+      <li><b>“ขอบคุณทุกคน ที่ทำให้ชีวิตผู้หญิงคนนี้ รู้สึกมีค่า”</b> (เสียงสั่น)</li>
+  </ul>
+</div>

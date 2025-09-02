@@ -5,6 +5,8 @@ use App\Http\Controllers\CategoryController;
 use Illuminate\Support\Facades\DB;
 use Illuminate\Support\Facades\Route;
 use Inertia\Inertia;
+use App\Models\News;
+
 
 Route::get('/', function () {
     return Inertia::render('welcome');
@@ -199,3 +201,30 @@ Route::get('product/form', function () {
 Route::get('barchart', function () {    
     return view('barchart');
 })->name('barchart');
+
+
+
+
+
+
+/*
+|--------------------------------------------------------------------------
+| Web Routes
+|--------------------------------------------------------------------------
+*/
+
+// Route นี้จะทำงานเมื่อเข้า http://127.0.0.1:8000/index
+Route::get('/index', function () {
+    $newsList = News::latest()->paginate(10);
+    return view('index', ['newsList' => $newsList]);
+})->name('news.index');
+
+
+// Route สำหรับหน้ารายละเอียดข่าว
+Route::get('/news/{id}', function ($id) {
+    $news = News::findOrFail($id);
+    return view('news-detail', ['news' => $news]);
+})->name('news.detail');
+
+// สำคัญ: ตรวจสอบให้แน่ใจว่าไม่มี Route::get('/', ...); อื่นในไฟล์นี้
+// การที่ไม่มี Route สำหรับ '/' จะทำให้หน้านั้นเป็น 404 Not Found
