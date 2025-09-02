@@ -30,13 +30,13 @@
 
               <div class="meta-top">
                 <ul>
-                  <li class="d-flex align-items-center"><a href="blog-details.html">Sorts</a></li>
-                  <li class="d-flex align-items-center"><i class="bi bi-dot"></i> <a href="blog-details.html"><time datetime="2022-01-01">Jan 1, 2022</time></a></li>
+                  <li class="d-flex align-items-center"><a href="blog-details">Sorts</a></li>
+                  <li class="d-flex align-items-center"><i class="bi bi-dot"></i> <a href="blog-details"><time datetime="2022-01-01">Jan 1, 2022</time></a></li>
                 </ul>
               </div>
 
               <h2 class="title">
-                <a href="blog-details.html">Dolorum optio tempore voluptas dignissimos</a>
+                <a href="blog-details">Dolorum optio tempore voluptas dignissimos</a>
               </h2>
 
             </article>

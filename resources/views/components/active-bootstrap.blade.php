@@ -81,11 +81,11 @@
     </header>
 
 
-
+    <main>
     {{ $slot }}
+    </main>
 
 
-    
 
     <footer id="footer" class="footer light-background">
         <div class="container">

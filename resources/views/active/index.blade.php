@@ -1,5 +1,4 @@
-<x-active-bootstrap title="active-bootstrap">
-  <main class="main">
+<x-active-bootstrap title="home">
 
     <!-- About Section -->
     <section id="about" class="about section">
@@ -753,5 +752,4 @@
       </div>
     </section><!-- /Testimonials Section -->
 
-  </main>
 </x-active-bootstrap>
