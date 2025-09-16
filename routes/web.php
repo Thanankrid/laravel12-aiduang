@@ -6,6 +6,9 @@ use Illuminate\Support\Facades\DB;
 use Illuminate\Support\Facades\Route;
 use Inertia\Inertia;
 use App\Models\News;
+use Illuminate\Http\Request;
+use Illuminate\Support\Facades\Storage;
+use App\Http\Controllers\NewsController;
 
 
 Route::get('/', function () {
@@ -187,14 +190,17 @@ Route::get('query/builder', function () {
     return view('query-test', compact('products'));
 });
 
-Route::get('query/orm', function () {
-    $products = Product::get();
-    // $products = Product::where('price', '>', 100)->get();
-    return view('query-test', compact('products'));
-});
 
-Route::get('product/form', function () {
-    //
+
+
+Route::get('product-index', function () {
+    $products = Product::get();
+    return view('query-test', compact('products'));
+})->name("product.index");
+
+
+Route::get('product-form', function () {    
+    return view('product-form');
 })->name("product.form");
 
 
@@ -202,6 +208,27 @@ Route::get('barchart', function () {
     return view('barchart');
 })->name('barchart');
 
+
+Route::post('/product-submit', function (Request $request) {    
+    $data = $request->validate([
+        'name' => 'required|string|max:255',
+        'description' => 'required|string',
+        'price' => 'required|numeric|min:0',
+        'image' => 'nullable|image|mimes:jpeg,png,jpg|max:2048',
+    ]);    
+
+    // ตรวจสอบว่ามีการอัปโหลดรูปภาพ
+    if ($request->hasFile('image')) {
+        $imagePath = $request->file('image')->store('uploads', 'public');
+        $url = Storage::url($imagePath);
+        $data["image"] =$url;
+    }
+
+    // บันทึกข้อมูลในฐานข้อมูล
+    Product::create($data);
+
+    return redirect()->route('product.index')->with('success', 'เพิ่มสินค้าแล้ว!');
+})->name('product.submit');
 
 
 
@@ -228,3 +255,17 @@ Route::get('/news/{id}', function ($id) {
 
 // สำคัญ: ตรวจสอบให้แน่ใจว่าไม่มี Route::get('/', ...); อื่นในไฟล์นี้
 // การที่ไม่มี Route สำหรับ '/' จะทำให้หน้านั้นเป็น 404 Not Found
+
+
+
+
+
+
+
+// CRUD สำหรับข่าว
+Route::prefix('news')->name('demo.news.')->group(function() {
+    Route::post('/store', [NewsController::class, 'store'])->name('store');
+    Route::put('/update/{id}', [NewsController::class, 'update'])->name('update');
+    Route::delete('/destroy/{id}', [NewsController::class, 'destroy'])->name('destroy');
+});
+

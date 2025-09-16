@@ -7,15 +7,67 @@ use App\Models\News;
 
 class NewsController extends Controller
 {
-    // หน้า index: แสดงข่าวทั้งหมด
-    public function index() {
-        $newsList = News::all();
-        return view('news.index', compact('newsList'));
+    /**
+     * แสดงหน้าหลัก พร้อมข่าวล่าสุด 10 ข่าว
+     */
+    public function index()
+    {
+        $newsList = News::orderBy('created_at', 'desc')->take(10)->get();
+        return view('index', compact('newsList'));
     }
 
-    // หน้า detail: แสดงข่าวตาม id
-    public function detail($id) {
+    /**
+     * แสดงรายละเอียดข่าว
+     */
+    public function detail($id)
+    {
         $news = News::findOrFail($id);
-        return view('news.detail', compact('news'));
+        return view('news-detail', compact('news'));
+    }
+
+    /**
+     * เพิ่มข่าวใหม่
+     */
+    public function store(Request $request)
+    {
+        $request->validate([
+            'title' => 'required|string|max:255',
+            'summary' => 'nullable|string',
+            'image' => 'nullable|string|max:255',
+            'content' => 'required|string', // ต้องกรอก content
+        ]);
+
+        News::create($request->only('title', 'summary', 'image', 'content'));
+
+        return redirect()->back()->with('success', 'เพิ่มข่าวเรียบร้อยแล้ว');
+    }
+
+    /**
+     * แก้ไขข่าว
+     */
+    public function update(Request $request, $id)
+    {
+        $request->validate([
+            'title' => 'required|string|max:255',
+            'summary' => 'nullable|string',
+            'image' => 'nullable|string|max:255',
+            'content' => 'required|string', // ต้องกรอก content
+        ]);
+
+        $news = News::findOrFail($id);
+        $news->update($request->only('title', 'summary', 'image', 'content'));
+
+        return redirect()->back()->with('success', 'แก้ไขข่าวเรียบร้อยแล้ว');
+    }
+
+    /**
+     * ลบข่าว
+     */
+    public function destroy($id)
+    {
+        $news = News::findOrFail($id);
+        $news->delete();
+
+        return redirect()->back()->with('success', 'ลบข่าวเรียบร้อยแล้ว');
     }
 }
